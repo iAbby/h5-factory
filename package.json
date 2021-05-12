@@ -14,7 +14,7 @@
     "font-awesome": "^4.7.0",
     "iscroll": "^5.2.0",
     "normalize.css": "7.0.0",
-    "swiper": "^4.5.0",
+    "swiper": "^6.5.1",
     "vue": "2.6.10"
   },
   "devDependencies": {
